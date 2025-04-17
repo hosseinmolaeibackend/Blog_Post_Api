@@ -18,8 +18,8 @@ This project is a **simple RESTful API for a blog application**, implemented usi
 - **Retrieve a blog post by ID**
 - **Update a blog post**
 - **Delete a blog post**
-- **Basic error handling**
-- **Structured logging to file**
+- **Basic error handling with middelware**
+- **Structured logging to file with serilog library**
 - **In-memory database for simplicity**
 
 ---
