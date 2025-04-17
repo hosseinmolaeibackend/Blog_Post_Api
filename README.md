@@ -30,7 +30,7 @@ This project is a **simple RESTful API for a blog application**, implemented usi
 - ASP.NET Core Web API
 - Entity Framework Core (In-Memory Provider)
 - Serilog (File logging)
-- xUnit (Unit testing)
+- NUnit (Unit testing)
 
 ---
 
